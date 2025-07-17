@@ -41,12 +41,21 @@ print("\n\n✔️ All set! Enjoy your journey.\n")
 # 👉 Example:
 hobby = input("🕹️ What's your favorite hobby? ")
 game = input("🎮 What's your favorite video game? ")
+song = input("🎶 What's your favorite song? ")
+book = input("📖 What's your favorite book? ")
+season = input("🍂 What's your favorite season? ")
+movie = input("🎞️ What's your favorite movie? ")
+pastry = input("🍰 What's your favorite pastry? ")
 
 # Print custom section
 print("===== BONUS INFO =====")
 print(f"🎨 Hobby: {hobby}")
 print(f"🎮 Favorite Game: {game}")
-print("======================")
+print(f"🎶 Favorite Song: {song}")
+print(f"📖 Favorite Book: {book}")
+print(f"🍂 Favorite Season: {season}")
+print(f" Favorite Movie: {movie}")
+print(f" Favorite Pastry: {pastry}")
 
 # CHALLENGE: Add at least 2 more sections below!
 # For example: favorite snack, favorite animal, favorite song, etc.
